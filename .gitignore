@@ -43,3 +43,30 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# Flutter/Dart
+.dart_tool/
+.packages
+.pub/
+build/
+ios/Flutter/.generated/
+.flutter-plugins
+.flutter-plugins-dependencies
+
+# Android
+*.iml
+.gradle
+local.properties
+.idea
+.DS_Store
+
+# VS Code
+.vscode/
+
+# macOS
+# Uncomment the following line if you want to include macOS builds
+#macos/Pods/
+
+# IntelliJ
+.idea/
+
